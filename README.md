@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [Github]([https://github.com/ItsOndras])
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ItsOndras)
 
 - 📫 You can reach me by joining my [discord](https://discord.gg/)
 
